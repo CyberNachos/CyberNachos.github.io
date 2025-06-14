@@ -1,0 +1,1 @@
+import{g as a,c as o,r as n,n as c,k as t,o as d,A as l}from"./rtUEPVRF.js";const u=a({__name:"Card",props:{class:{}},setup(s){const e=s;return(r,p)=>(d(),o("div",{class:c(t(l)("rounded-lg border bg-card text-card-foreground shadow-sm",e.class))},[n(r.$slots,"default")],2))}});export{u as _};
