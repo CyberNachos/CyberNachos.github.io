@@ -1,1 +1,0 @@
-import{_ as t,c as r,o,r as n}from"./DUu4xdR1.js";const s={},c={class:"border px-4 py-2 text-left font-bold [&[align=center]]:text-center [&[align=right]]:text-right"};function a(e,l){return o(),r("th",c,[n(e.$slots,"default")])}const f=t(s,[["render",a]]);export{f as default};
