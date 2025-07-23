@@ -1,1 +1,0 @@
-import{_ as r,c as t,o,r as s}from"./C8nwb48Q.js";const a={},c={class:"grid grid-cols-[repeat(auto-fit,_minmax(270px,_1fr))] gap-6 [&:not(:first-child)]:mt-5"};function n(e,_){return o(),t("div",c,[s(e.$slots,"default")])}const i=r(a,[["render",n]]);export{i as default};
