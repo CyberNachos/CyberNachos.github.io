@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://cybernachos.github.io/sitemap.xml
+
+# Allow search engines to crawl all content
+Allow: /promptrobot
+Allow: /cybernachos
+Allow: /published/
+Allow: /tutorial-isaaclab/
+Allow: /tutorial-llms/
+Allow: /published-research/
+Allow: /robotics-overview/
+Allow: /posts/
+Allow: /courses/
+Allow: /ai-robotics-100q/
+
+# Disallow private or technical directories
+Disallow: /_nuxt/
+Disallow: /api/
+Disallow: /*.json$
